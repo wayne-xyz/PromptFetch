@@ -1,2 +1,4 @@
 autogen
 firebase-admin
+python-dotenv
+openai
