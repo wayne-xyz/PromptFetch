@@ -1,7 +1,10 @@
 # Python
 __pycache__/
 .cache/
+*.cache/
+**/.cache/
 .db
+*.db
 
 # Virtual Environment
 venv/
